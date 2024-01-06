@@ -5,7 +5,7 @@ Simplify your interactions with Microsoft Azure Cosmos DB using CosmosDB Helper.
 <br><br><br><br><br>
 
 ![Az1](https://github.com/xMeliiodaS/AzureDB-.NET-framework/assets/127980746/8ebf9dcb-f5d1-43e4-b3b1-b32d00a09f5d)
-Connect to the emulator:
+Connect to the emulator:<br>
 &emsp;  -Choose the connection source – either the emulator running locally or an Azure Cosmos DB account.<br>
 &emsp;  -Specify the necessary credentials like the name of the Cosmos DB account, endpoint URI, and primary key for authorization.<br>
 &emsp;  -View the client status – whether they're currently connected to the emulator or the Azure account.<br>
