@@ -1,4 +1,6 @@
 # AzureDB-.NET-framework
+This project is crafted using the C# language, harnessing its expressive power and versatility to create a robust and efficient solution.
+
 Simplify your interactions with Microsoft Azure Cosmos DB using CosmosDB Helper. This Python library offers an intuitive set of tools for creating Cosmos clients, managing entities in the cloud, refreshing database and table lists, and more. Streamline your Cosmos DB workflows with ease.
 
 ![Az1](https://github.com/xMeliiodaS/AzureDB-.NET-framework/assets/127980746/8ebf9dcb-f5d1-43e4-b3b1-b32d00a09f5d)
