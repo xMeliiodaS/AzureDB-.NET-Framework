@@ -8,7 +8,7 @@ Connect to the emulator:
   -Choose the connection source – either the emulator running locally or an Azure Cosmos DB account.
   -Specify the necessary credentials like the name of the Cosmos DB account, endpoint URI, and primary key for authorization.
   -View the client status – whether they're currently connected to the emulator or the Azure account.
-
+<br><br><br>
 
 
 
