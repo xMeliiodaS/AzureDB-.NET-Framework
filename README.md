@@ -45,17 +45,17 @@ Connect to the emulator:<br>
 
 Choose to upload files to the cloud or not:<br>
 
-The user can enable or disable cloud file upload by clicking the checkbox next to "Cloud Keys and Client Creation".<br><br>
-Enabling this would likely allow uploading form data or files collected through the form to a cloud storage service.<br><br><br>
+-The user can enable or disable cloud file upload by clicking the checkbox next to "Cloud Keys and Client Creation".<br><br>
+-Enabling this would likely allow uploading form data or files collected through the form to a cloud storage service.<br><br><br>
 
 Database and table selection:<br>
 
-The user can see a list of databases and tables potentially related to the form.<br><br>
-It's unclear from the image what these databases and tables are used for in the context of the form.<br><br>
+-The user can see a list of databases and tables potentially related to the form.<br><br>
+-It's unclear from the image what these databases and tables are used for in the context of the form.<br><br>
 
 Activity log:<br>
 
-The user can access an activity log, potentially to see past actions or changes made to the form.
+-The user can access an activity log, potentially to see past actions or changes made to the form.
 <br><br><br><br><br>
 ![Az6](https://github.com/xMeliiodaS/AzureDB-.NET-framework/assets/127980746/a36bab80-7c1d-4077-a40a-41b0f702f633)
 ![Az7](https://github.com/xMeliiodaS/AzureDB-.NET-framework/assets/127980746/e0ad874f-f878-4511-a042-9ca1afde5d19)
