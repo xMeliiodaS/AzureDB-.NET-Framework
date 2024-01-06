@@ -58,10 +58,10 @@ Activity log:<br>
 -The user can access an activity log, potentially to see past actions or changes made to the form.
 <br><br><br><br><br>
 ![Az6](https://github.com/xMeliiodaS/AzureDB-.NET-framework/assets/127980746/a36bab80-7c1d-4077-a40a-41b0f702f633)
-Create a database and table in the cloud: The user can enter a name for the database and table, and then click the "Create Entity in Cloud" button.<br><br>
-View a list of databases and tables: The user can see a list of all the databases and tables that have been created in the cloud. They can also refresh the list or delete a database or table.<br><br>
-Check if a database or table exists: The user can enter the name of a database or table and then click the "Check if Exists" button. This will tell them whether or not the database or table exists in the cloud.<br><br>
-View the client status: The user can see whether or not the client is connected to the cloud.<br><br>
+-Create a database and table in the cloud: The user can enter a name for the database and table, and then click the "Create Entity in Cloud" button.<br><br>
+-View a list of databases and tables: The user can see a list of all the databases and tables that have been created in the cloud. They can also refresh the list or delete a database or table.<br><br>
+-Check if a database or table exists: The user can enter the name of a database or table and then click the "Check if Exists" button. This will tell them whether or not the database or table exists in the cloud.<br><br>
+-View the client status: The user can see whether or not the client is connected to the cloud.<br><br>
 ![Az7](https://github.com/xMeliiodaS/AzureDB-.NET-framework/assets/127980746/e0ad874f-f878-4511-a042-9ca1afde5d19)
 ![Az8](https://github.com/xMeliiodaS/AzureDB-.NET-framework/assets/127980746/803f0673-2d2e-42fc-9398-9ce5bf2dc5e5)
 ![Az9](https://github.com/xMeliiodaS/AzureDB-.NET-framework/assets/127980746/6d4eac8f-c6b8-4938-b062-e477be044d20)
