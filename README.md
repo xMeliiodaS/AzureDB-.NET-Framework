@@ -15,9 +15,9 @@ Connect to the emulator:<br>
 
   
 ![Az2](https://github.com/xMeliiodaS/AzureDB-.NET-framework/assets/127980746/ecd998fb-1167-44ed-a506-df03e54acf71)
-&emsp;-Create a database and table in the cloud: The user can enter a name for the database and table, and then click the "Create Entity in &emsp;&emsp;Cloud" button.<br>
-&emsp;-View a list of databases and tables: The user can see a list of all the databases and tables that have been created in the cloud. They &emsp;&emsp;can also refresh the list or delete a &emsp;&emsp;database or table.<br>
-&emsp;-Check if a database or table exists: The user can enter the name of a database or table and then click the "Check if Exists" button. &emsp;&emsp;This will tell them whether or not the &emsp;&emsp;database or table exists in the cloud.<br>
+&emsp;-Create a database and table in the cloud: The user can enter a name for the database and table, and then click the "Create Entity in Cloud" button.<br>
+&emsp;-View a list of databases and tables: The user can see a list of all the databases and tables that have been created in the cloud. They can also refresh the list or delete a database or table.<br>
+&emsp;-Check if a database or table exists: The user can enter the name of a database or table and then click the "Check if Exists" button. This will tell them whether or not the database or table exists in the cloud.<br>
 &emsp;-View the client status: The user can see whether or not the client is connected to the cloud.<br>
 
 <br><br><br><br><br>
