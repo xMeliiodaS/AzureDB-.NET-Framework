@@ -6,19 +6,19 @@ Simplify your interactions with Microsoft Azure Cosmos DB using CosmosDB Helper.
 
 ![Az1](https://github.com/xMeliiodaS/AzureDB-.NET-framework/assets/127980746/8ebf9dcb-f5d1-43e4-b3b1-b32d00a09f5d)
 Connect to the emulator:<br>
-&emsp;  -Choose the connection source – either the emulator running locally or an Azure Cosmos DB account.<br>
-&emsp;  -Specify the necessary credentials like the name of the Cosmos DB account, endpoint URI, and primary key for authorization.<br>
-&emsp;  -View the client status – whether they're currently connected to the emulator or the Azure account.<br>
+&emsp;  -Choose the connection source – either the emulator running locally or an Azure Cosmos DB account.<br><br>
+&emsp;  -Specify the necessary credentials like the name of the Cosmos DB account, endpoint URI, and primary key for authorization.<br><br>
+&emsp;  -View the client status – whether they're currently connected to the emulator or the Azure account.<br><br>
 <br><br><br><br><br>
 
 
 
   
 ![Az2](https://github.com/xMeliiodaS/AzureDB-.NET-framework/assets/127980746/ecd998fb-1167-44ed-a506-df03e54acf71)
-&emsp;-Create a database and table in the cloud: The user can enter a name for the database and table, and then click the "Create Entity in Cloud" button.<br>
-&emsp;-View a list of databases and tables: The user can see a list of all the databases and tables that have been created in the cloud. They can also refresh the list or delete a database or table.<br>
-&emsp;-Check if a database or table exists: The user can enter the name of a database or table and then click the "Check if Exists" button. This will tell them whether or not the database or table exists in the cloud.<br>
-&emsp;-View the client status: The user can see whether or not the client is connected to the cloud.<br>
+-Create a database and table in the cloud: The user can enter a name for the database and table, and then click the "Create Entity in Cloud" button.<br><br>
+-View a list of databases and tables: The user can see a list of all the databases and tables that have been created in the cloud. They can also refresh the list or delete a database or table.<br><br>
+-Check if a database or table exists: The user can enter the name of a database or table and then click the "Check if Exists" button. This will tell them whether or not the database or table exists in the cloud.<br><br>
+-View the client status: The user can see whether or not the client is connected to the cloud.<br><br>
 
 <br><br><br><br><br>
 
@@ -31,11 +31,11 @@ Connect to the emulator:<br>
 
 ![Az4](https://github.com/xMeliiodaS/AzureDB-.NET-framework/assets/127980746/07234cf4-6fed-4de5-bcc7-32ab986b5208)
 
-&emsp;  -Search for databases containing tables with the user's name.<br>
-&emsp;  -Get a list of databases containing at least a specific table.<br>
-&emsp; -Specify an "X" table (the purpose of this isn't clear from the image).<br>
-&emsp;  -Get databases based on the specified "X" table.<br>
-&emsp;  -View the client status (likely whether it's connected to a database).<br>
+&emsp;  -Search for databases containing tables with the user's name.<br><br>
+&emsp;  -Get a list of databases containing at least a specific table.<br><br>
+&emsp; -Specify an "X" table (the purpose of this isn't clear from the image).<br><br>
+&emsp;  -Get databases based on the specified "X" table.<br><br>
+&emsp;  -View the client status (likely whether it's connected to a database).<br><br>
   
 <br><br><br><br><br>
 
