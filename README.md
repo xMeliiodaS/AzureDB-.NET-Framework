@@ -65,6 +65,7 @@ Activity log:<br>
 
 <br><br><br><br><br>
 
+More things to do!
 ![Az7](https://github.com/xMeliiodaS/AzureDB-.NET-framework/assets/127980746/e0ad874f-f878-4511-a042-9ca1afde5d19)
 ![Az8](https://github.com/xMeliiodaS/AzureDB-.NET-framework/assets/127980746/803f0673-2d2e-42fc-9398-9ce5bf2dc5e5)
 ![Az9](https://github.com/xMeliiodaS/AzureDB-.NET-framework/assets/127980746/6d4eac8f-c6b8-4938-b062-e477be044d20)
