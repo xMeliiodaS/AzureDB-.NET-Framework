@@ -6,9 +6,9 @@ Simplify your interactions with Microsoft Azure Cosmos DB using CosmosDB Helper.
 
 ![Az1](https://github.com/xMeliiodaS/AzureDB-.NET-framework/assets/127980746/8ebf9dcb-f5d1-43e4-b3b1-b32d00a09f5d)
 Connect to the emulator:<br>
-&emsp;  -Choose the connection source – either the emulator running locally or an Azure Cosmos DB account.<br><br>
-&emsp;  -Specify the necessary credentials like the name of the Cosmos DB account, endpoint URI, and primary key for authorization.<br><br>
-&emsp;  -View the client status – whether they're currently connected to the emulator or the Azure account.<br><br>
+-Choose the connection source – either the emulator running locally or an Azure Cosmos DB account.<br><br>
+-Specify the necessary credentials like the name of the Cosmos DB account, endpoint URI, and primary key for authorization.<br><br>
+-View the client status – whether they're currently connected to the emulator or the Azure account.<br><br>
 <br><br><br><br><br>
 
 
@@ -31,11 +31,11 @@ Connect to the emulator:<br>
 
 ![Az4](https://github.com/xMeliiodaS/AzureDB-.NET-framework/assets/127980746/07234cf4-6fed-4de5-bcc7-32ab986b5208)
 
-&emsp;  -Search for databases containing tables with the user's name.<br><br>
-&emsp;  -Get a list of databases containing at least a specific table.<br><br>
-&emsp; -Specify an "X" table (the purpose of this isn't clear from the image).<br><br>
-&emsp;  -Get databases based on the specified "X" table.<br><br>
-&emsp;  -View the client status (likely whether it's connected to a database).<br><br>
+-Search for databases containing tables with the user's name.<br><br>
+-Get a list of databases containing at least a specific table.<br><br>
+Specify an "X" table (the purpose of this isn't clear from the image).<br><br>
+-Get databases based on the specified "X" table.<br><br>
+-View the client status (likely whether it's connected to a database).<br><br>
   
 <br><br><br><br><br>
 
