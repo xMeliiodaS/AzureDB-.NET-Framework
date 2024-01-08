@@ -2,7 +2,7 @@
 This project is crafted using the C# language, harnessing its expressive power and versatility to create a robust and efficient solution.
 
 Simplify your interactions with Microsoft Azure Cosmos DB using CosmosDB Helper. This Python library offers an intuitive set of tools for creating Cosmos clients, managing entities in the cloud, refreshing database and table lists, and more. Streamline your Cosmos DB workflows with ease.
-<br><br><br><br><br>a
+<br><br><br><br><br>
 
 ![Az1](https://github.com/xMeliiodaS/AzureDB-.NET-framework/assets/127980746/8ebf9dcb-f5d1-43e4-b3b1-b32d00a09f5d)
 Connect to the emulator:<br>
@@ -25,7 +25,7 @@ Connect to the emulator:<br>
 
 
 ![Az3](https://github.com/xMeliiodaS/AzureDB-.NET-framework/assets/127980746/f820bfe8-79f3-455c-ad41-cc249e444ebc)
-&emsp;  - See the last activity.<br>
+- See the last activity.<br>
 
 <br><br><br><br><br>
 
@@ -33,7 +33,7 @@ Connect to the emulator:<br>
 
 - Search for databases containing tables with the user's name.<br><br>
 - Get a list of databases containing at least a specific table.<br><br>
-Specify an "X" table (the purpose of this isn't clear from the image).<br><br>
+- Specify an "X" table (the purpose of this isn't clear from the image).<br><br>
 - Get databases based on the specified "X" table.<br><br>
 - View the client status (likely whether it's connected to a database).<br><br>
   
