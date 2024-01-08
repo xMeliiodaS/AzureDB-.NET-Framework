@@ -25,7 +25,7 @@ Connect to the emulator:<br>
 
 
 ![Az3](https://github.com/xMeliiodaS/AzureDB-.NET-framework/assets/127980746/f820bfe8-79f3-455c-ad41-cc249e444ebc)
-&emsp;  -See the last activity.<br>
+&emsp;  - See the last activity.<br>
 
 <br><br><br><br><br>
 
